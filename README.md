@@ -58,3 +58,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ClaytonAugust/ClaytonAugust/output/snake.svg" alt="Snake animation" />
+
+###
